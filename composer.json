@@ -1,0 +1,17 @@
+{
+    "name": "rvilbrandt/lost-found",
+    "description": "Miscellaneous stuff",
+    "authors": [
+        {
+            "name": "Ronald Vilbrandt",
+            "email": "info@rvi-media.de"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "4.8"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {"rvilbrandt\\lostandfound\\": "src/"}
+    }
+}
